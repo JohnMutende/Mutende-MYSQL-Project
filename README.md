@@ -25,7 +25,15 @@ Aggregate function
    <img width="566" height="318" alt="DATA CLEANING 1" src="https://github.com/user-attachments/assets/7b61382f-c885-4cef-9778-3e4fde453108" />
    ***
    Average price for each product
-   ![Average price for each product](https://github.com/user-attachments/assets/5590dbbd-4035-43cf-8261-86866a45afc3)
+  ![Average price for each product](https://github.com/user-attachments/assets/c8194a58-aaec-4293-b7d7-443a9d378651)
+
 ***
+5 Bottom product based on price
+![No 3](https://github.com/user-attachments/assets/fc7e0a0a-1647-4734-ac94-81d669c3f542)
+
+Number of customers
+![No 4](https://github.com/user-attachments/assets/3258c4d7-131f-4085-893b-c27ebb4afb2a)
+
+
 
 
