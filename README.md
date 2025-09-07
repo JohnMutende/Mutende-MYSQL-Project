@@ -23,4 +23,8 @@ Aggregate function
    Data cleaning
    
    <img width="566" height="318" alt="DATA CLEANING 1" src="https://github.com/user-attachments/assets/7b61382f-c885-4cef-9778-3e4fde453108" />
+   ***
+   Average price for each product
+   ![Average price for each product](https://github.com/user-attachments/assets/5590dbbd-4035-43cf-8261-86866a45afc3)
+***
 
