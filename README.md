@@ -15,9 +15,7 @@ Data cleaning
 Aggregate function
 1. find the average price for each product
 2. find 5 bottom product based on price
-3. count the number of customers
-4. Find total cost of production for each product
-5. which customer is our most valued customer?
-6. who are the customers that got freezer has gift
-7. find the most profitable product.
+3. which customer is our most valued customer?
+4. who are the customers that got freezer has gift
+5. find the most profitable product.
    ***
