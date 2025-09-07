@@ -3,6 +3,8 @@
 This project focuses on data cleaning and analysis to generate actionable business insights. The first stage involves preparing the dataset by ensuring all columns have the correct data types, particularly by removing dollar signs and commas from price-related fields.
 Once cleaned, the dataset is analyzed using aggregate functions to answer key business questions.
 ***
+**Data source**
+Thsee data set was shared during Data analysis class to be used for the assignments and projects
 
 **Key Questions**
 Data cleaning
