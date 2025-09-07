@@ -21,6 +21,7 @@ Aggregate function
 6. find the most profitable product.
    ***
    Data cleaning
+   
    <img width="566" height="318" alt="DATA CLEANING 1" src="https://github.com/user-attachments/assets/c82a6cc5-6b17-4eaa-b1b6-c886284a8e90" />
 
    ***
