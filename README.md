@@ -7,6 +7,7 @@ Once cleaned, the dataset is analyzed using aggregate functions to answer key bu
 Thsee data set was shared during Data analysis class to be used for the assignments and projects
 
 **Key Questions**
+
 Data cleaning
 1. Make sure all the column are in the correct datatype
  hint: remove the dollar sign and comma so you change the datatype to a suitable one
