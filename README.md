@@ -28,3 +28,4 @@ Aggregate function
    ![Average price for each product](https://github.com/user-attachments/assets/5590dbbd-4035-43cf-8261-86866a45afc3)
 ***
 
+
