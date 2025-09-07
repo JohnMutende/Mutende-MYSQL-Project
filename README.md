@@ -21,8 +21,8 @@ Aggregate function
 6. find the most profitable product.
    ***
    Data cleaning
-   
-   <img width="566" height="318" alt="DATA CLEANING 1" src="https://github.com/user-attachments/assets/7b61382f-c885-4cef-9778-3e4fde453108" />
+   <img width="566" height="318" alt="DATA CLEANING 1" src="https://github.com/user-attachments/assets/c82a6cc5-6b17-4eaa-b1b6-c886284a8e90" />
+
    ***
    Average price for each product
   ![Average price for each product](https://github.com/user-attachments/assets/c8194a58-aaec-4293-b7d7-443a9d378651)
@@ -31,9 +31,20 @@ Aggregate function
 5 Bottom product based on price
 ![No 3](https://github.com/user-attachments/assets/fc7e0a0a-1647-4734-ac94-81d669c3f542)
 
+***
 Number of customers
 ![No 4](https://github.com/user-attachments/assets/3258c4d7-131f-4085-893b-c27ebb4afb2a)
 
+***
+Most valued customers
+![No 5](https://github.com/user-attachments/assets/a3190f3f-458e-4230-afc6-9226714895c9)
 
+***
+Customers that get freeze as gift
+![NO 6](https://github.com/user-attachments/assets/752a2daa-7b62-40a7-bd49-897acd28c41e)
+
+***
+The most profitable product
+![NO 7](https://github.com/user-attachments/assets/c43b688d-0809-4f3e-85ab-41ef69f727b8)
 
 
